@@ -416,6 +416,12 @@
         "options": {
           "full_name": "steam"
         }
+      },
+      "sourcetree": {
+        "version": "4.0.2_236",
+        "options": {
+          "full_name": "sourcetree"
+        }
       }
     }
   },
