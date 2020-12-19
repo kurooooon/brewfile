@@ -398,6 +398,24 @@
         "options": {
           "full_name": "vlc"
         }
+      },
+      "authy": {
+        "version": "1.8.3",
+        "options": {
+          "full_name": "authy"
+        }
+      },
+      "discord": {
+        "version": "0.0.260",
+        "options": {
+          "full_name": "discord"
+        }
+      },
+      "steam": {
+        "version": "latest",
+        "options": {
+          "full_name": "steam"
+        }
       }
     }
   },
